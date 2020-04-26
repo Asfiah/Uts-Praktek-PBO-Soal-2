@@ -1,0 +1,11 @@
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\bin\Debug\netcoreapp3.1\UTSPBO2.exe
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\bin\Debug\netcoreapp3.1\UTSPBO2.deps.json
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\bin\Debug\netcoreapp3.1\UTSPBO2.runtimeconfig.json
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\bin\Debug\netcoreapp3.1\UTSPBO2.runtimeconfig.dev.json
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\bin\Debug\netcoreapp3.1\UTSPBO2.dll
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\bin\Debug\netcoreapp3.1\UTSPBO2.pdb
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\obj\Debug\netcoreapp3.1\UTSPBO2.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\obj\Debug\netcoreapp3.1\UTSPBO2.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\obj\Debug\netcoreapp3.1\UTSPBO2.AssemblyInfo.cs
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\obj\Debug\netcoreapp3.1\UTSPBO2.dll
+C:\Users\asus\Documents\Visual Studio 2019\UTSPBO2\UTSPBO2\obj\Debug\netcoreapp3.1\UTSPBO2.pdb
